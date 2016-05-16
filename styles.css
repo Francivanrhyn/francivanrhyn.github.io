@@ -1,0 +1,14 @@
+
+p{
+font-family: Arial;
+font-size: 14px;
+color: #FF00FF;
+}
+
+body{
+	background-color: navy;
+}
+
+table, th, td{
+	border: 1px solid red;
+}
