@@ -9,6 +9,6 @@ body{
 	background-color: navy;
 }
 
-table, th, td{
+table, td{
 	border: 1px solid red;
 }
